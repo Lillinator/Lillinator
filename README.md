@@ -1,5 +1,4 @@
-Lilly L
-
+Lilly 
 - Admin of forums.cfl.ca, fan forum for the Canadian Football League
 - I am a forum admin, support analyst and programmer specializing in the Discourse software platform.   
 
